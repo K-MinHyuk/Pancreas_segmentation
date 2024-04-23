@@ -5,7 +5,7 @@ This is a pancreatic segmentation project based on Attention U-Net.
 The pancreas, located within the abdominal cavity, is difficult to delineate and highly susceptible to fatal cancer conditions. By utilizing deep neural networks for segmentation, this approach can serve as an adjunct method for treatment.
 
 # Dataset
-The dataset used for this project can be found at the following link: 👉 [💿]([http://www.google.co.kr](https://wiki.cancerimagingarchive.net/display/Public/Pancreas-CT#22514040c56be89073824ef7946e58d813146283)https://wiki.cancerimagingarchive.net/display/Public/Pancreas-CT#22514040c56be89073824ef7946e58d813146283).
+The dataset used for this project can be found at the following link: 👉 [💿](https://www.cancerimagingarchive.net/collection/pancreas-ct/).
 
 
 <p align="center">
